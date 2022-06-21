@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/28rodrigo/simple_node_server/issues"
   },
-  "homepage": "https://github.com/28rodrigo/simple_node_server#readme"
+  "homepage": "https://github.com/28rodrigo/simple_node_server#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
